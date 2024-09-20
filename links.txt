@@ -1,13 +1,6 @@
-https://mirror.ghproxy.com/https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/Google.list
-https://mirror.ghproxy.com/https://github.com/Repcz/Tool/raw/X/QuantumultX/Rules/Github.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list
 https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.list
-https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/HTTPDNS.Block.list
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-quanx.txt
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 http://limbopro.xyz/Adblock4limbo.list
