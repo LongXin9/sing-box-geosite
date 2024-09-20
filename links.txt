@@ -1,6 +1,2 @@
-https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-quanx.txt
-https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list
-https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list
-https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list
 http://limbopro.xyz/Adblock4limbo.list
