@@ -1,0 +1,76 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ad.12306.cn",
+        "ain.bgm.tv",
+        "analytics.strava.com",
+        "cdn.jsdelivr.net",
+        "deo.shopeemobile.com",
+        "fairplay.l.qq.com",
+        "image.maimn.com",
+        "img.bfzypic.com",
+        "img.ffzypic.com",
+        "img.kuaikanzy.net",
+        "img.liangzipic.com",
+        "init.ess.apple.com",
+        "itunes.apple.com",
+        "lain.bgm.tv",
+        "livew.l.qq.com",
+        "log.mmstat.com",
+        "m3u8.255tv.tk",
+        "m3u8.mstopq.com",
+        "msg.umeng.com",
+        "msg.umengcloud.com",
+        "ok.zuidapic.com",
+        "sdk.alibaba.com.ailbaba.me",
+        "smp-device-content.apple.com",
+        "static.jssp.tv",
+        "sycm.mmstat.com",
+        "tiao.cjkypo.com",
+        "time.apple.com",
+        "ts.thefilehosting.com",
+        "vd.l.qq.com",
+        "vi.l.qq.com",
+        "vip.ffzyread.com",
+        "vip.imgffzy.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "anti-ad.net",
+        "api-adservices.apple.com",
+        "api.smoot.apple.cn",
+        "api.smoot.apple.com",
+        "aw-s.tripcdn.com",
+        "ax1x.com",
+        "bfzycdn.com",
+        "buy.itunes.apple.com",
+        "ctc.qzs.qzone.qq.com",
+        "ess.apple.com",
+        "gsa.apple.com",
+        "humb.apple.com",
+        "icloud.com",
+        "ls.apple.com",
+        "o.lencr.org",
+        "push.apple.com",
+        "ssl.apple.com",
+        "trip.com",
+        "ttcdn-tos.kkimg.cc",
+        "vip.ffzy-online",
+        "vip.ffzy-play",
+        "vip.kuaikan-cdn",
+        "vip.lz-cdn",
+        "weather-adge.apple.com",
+        "weather-edge.apple.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "192.168.0.1/24",
+        "192.168.1.1/24"
+      ]
+    }
+  ],
+  "version": 1
+}
