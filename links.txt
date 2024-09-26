@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-quanx.txt
-http://limbopro.xyz/Adblock4limbo.list
+https://raw.githubusercontent.com/Repcz/Tool/X/QuantumultX/Rules/Ads_SukkaW.list
